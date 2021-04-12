@@ -11,7 +11,7 @@ baseurl: ''
 lang:                  pl
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Akusana | Gabinet akupunktury Ostrów Wlkp. | Akupunktura na ból, stres, odporność, zatoki, relaksacyjna, leczenie akupunkturą, terapia bólu, moksoterapia, dietetyka.
+title:                 Akusana
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
