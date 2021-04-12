@@ -11,19 +11,19 @@ baseurl: ''
 lang:                  pl
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Akusana
+title:                 Akusana | Gabinet akupunktury Ostrów Wlkp. | Akupunktura na ból, stres, odporność, zatoki, relaksacyjna, leczenie akupunkturą, terapia bólu, moksoterapia, dietetyka.
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Gabinet akupunktury Ostrów Wielkopolski.
+  Akupunktura na ból, stres, odporność, zatoki, relaksacyjna, leczenie akupunkturą, terapia bólu, moksoterapia, dietetyka.
 
 # A shorter description for the sidebar.
 tagline:               Gabinet akupunktury
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [akupunktura,ostrów wielkopolski,leczenie akupunkturą,terapia bólu,moksoterapia,akupunktura na ból,stres,odporność,zatoki,relaksacyjna,dietetyka]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -88,15 +88,11 @@ collections:
 
 # Theme
 # ---------------------------------------------------------------------------------------
-
-##theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
-# remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
- 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          rgb(79,177,186)
