@@ -4,11 +4,11 @@ title: O mnie
 ---
 
 <!--author-->
-Moja przygoda z medycyną chińską rozpoczęła się w 2015 r, wtedy to rozpoczęłam naukę w szkole Dietetyki Tradycyjnej Medycyny Chińskiej (TCM) w Warszawie, prowadzonej przez Dr Agnieszkę Krzemińską. To, co najbardziej urzekło mnie w terapiach dalekiego wschodu, to niezwykłe i bardzo indywidualne oraz holistyczne podejście do każdego pacjenta. 
+Moja przygoda z medycyną chińską rozpoczęła się w 2015 roku. Wtedy to rozpoczęłam naukę w szkole Dietetyki Tradycyjnej Medycyny Chińskiej (TCM) w Warszawie, prowadzonej przez Dr Agnieszkę Krzemińską. To, co najbardziej urzekło mnie w terapiach dalekiego wschodu, to niezwykłe i bardzo indywidualne oraz holistyczne podejście do każdego pacjenta. 
 
 Od tamtej pory nauka TCM stała się moją pasją oraz fantastyczną i niekończącą się przygodą. 
 
-Praca z pacjentami oraz pomaganie im daje mi ogromną radość i satysfakcję, a efekty działania terapii wg TCM zaskakują mnie każdego dnia. Czasami wystarczy zrobić tak niewiele by zmienić tak wiele w życiu pacjenta. Nawet jeśli czasem nie uda się całkowicie wyleczyć choroby, to w znacznym stopniu można poprawić stan pacjenta i jakość jego życia np. zmniejszyć ból lub poprawić jego stan psychiczny, co nieraz okazuje się kluczowe w dalszym dochodzeniu do zdrowia.
+Praca z pacjentami oraz pomaganie im daje mi ogromną radość i satysfakcję, a efekty działania terapii wg TCM zaskakują mnie każdego dnia. Czasami wystarczy zrobić tak niewiele by zmienić tak wiele w życiu pacjenta. Nawet jeśli czasem nie uda się całkowicie wyleczyć choroby, to w znacznym stopniu można poprawić stan pacjenta i jakość jego życia. Zmniejszyć ból lub poprawić jego stan psychiczny, co wielokrotnie okazuje się kluczowe w dalszym dochodzeniu do zdrowia.
 
 > "Kiedy serce wolne jest od trosk, ciało może wszystko" **Sun Simiao**
 
