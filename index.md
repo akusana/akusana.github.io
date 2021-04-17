@@ -4,14 +4,14 @@ title: O mnie
 ---
 
 <!--author-->
+
 Moja przygoda z medycyną chińską rozpoczęła się w 2015 roku. Wtedy to rozpoczęłam naukę w szkole Dietetyki Tradycyjnej Medycyny Chińskiej (TCM) w Warszawie, prowadzonej przez Dr Agnieszkę Krzemińską. To, co najbardziej urzekło mnie w terapiach dalekiego wschodu, to niezwykłe i bardzo indywidualne oraz holistyczne podejście do każdego pacjenta. 
 
 Od tamtej pory nauka TCM stała się moją pasją oraz fantastyczną i niekończącą się przygodą. 
 
-Praca z pacjentami oraz pomaganie im daje mi ogromną radość i satysfakcję, a efekty działania terapii wg TCM zaskakują mnie każdego dnia. Czasami wystarczy zrobić tak niewiele by zmienić tak wiele w życiu pacjenta. Nawet jeśli czasem nie uda się całkowicie wyleczyć choroby, to w znacznym stopniu można poprawić stan pacjenta i jakość jego życia. Zmniejszyć ból lub poprawić jego stan psychiczny, co wielokrotnie okazuje się kluczowe w dalszym dochodzeniu do zdrowia.
+Praca z pacjentami oraz pomaganie im daje mi ogromną radość i satysfakcję, a efekty działania terapii według TCM zaskakują mnie każdego dnia. Czasami wystarczy zrobić tak niewiele by zmienić tak wiele w życiu pacjenta. Nawet jeśli czasem nie uda się całkowicie wyleczyć choroby, to w znacznym stopniu można poprawić stan pacjenta i jakość jego życia. Zmniejszyć ból lub poprawić jego stan psychiczny, co wielokrotnie okazuje się kluczowe w dalszym dochodzeniu do zdrowia.
 
 > "Kiedy serce wolne jest od trosk, ciało może wszystko" **Sun Simiao**
-
 
 ## Moja edukacja z zakresu Tradycyjnej Medycyny Chińskiej
 
@@ -27,3 +27,8 @@ Praca z pacjentami oraz pomaganie im daje mi ogromną radość i satysfakcję, a
 - Leczenie bólu za pomocą punktów barier, dr Hamid Montakab, rok 2020.
 - Akupunktura w leczeniu bólu głowy, dr Hamid Montakab, rok 2020.
 - Akupunktura w leczeniu narządów zmysłu, dr Hamid Montakab, rok 2020.
+
+![Dyplom](/assets/img/dyplom-acuart.jpg){:.lead width="280" style="box-shadow: 2px 2px 2px black;"}
+![Dyplom](/assets/img/dyplom-dietetyka-tcm.jpg){:.lead width="280" style="box-shadow: 2px 2px 2px black;"}
+![Dyplom](/assets/img/dyplom-tcm-congress.jpg){:.lead width="280" style="box-shadow: 2px 2px 2px black;"}
+![Dyplom](/assets/img/dyplom-zdrowie-kobiety.jpg){:.lead width="280" style="box-shadow: 2px 2px 2px black;"}
