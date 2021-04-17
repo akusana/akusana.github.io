@@ -28,9 +28,7 @@ Praca z pacjentami oraz pomaganie im daje mi ogromną radość i satysfakcję, a
 - Akupunktura w leczeniu bólu głowy, dr Hamid Montakab, rok 2020.
 - Akupunktura w leczeniu narządów zmysłu, dr Hamid Montakab, rok 2020.
 
-![Dyplom](/assets/img/dyplom-acuart.jpg){:.lead style="border:1px solid #ddd;height:auto;width:300px;background-color:white;box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"}
-![Dyplom](/assets/img/dyplom-dietetyka-tcm.jpg){:.lead style="border:1px solid #ddd;height:auto;width:300px;background-color:white;box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"}
-
-
-![Dyplom](/assets/img/dyplom-tcm-congress.jpg){:.lead style="border:1px solid #ddd;height:auto;width:300px;background-color:white;box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"}
-![Dyplom](/assets/img/dyplom-zdrowie-kobiety.jpg){:.lead style="border:1px solid #ddd;height:auto;width:300px;background-color:white;box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"}
+![Dyplom](/assets/img/dyplom-acuart.jpg){:.lead style="margin-left:auto;margin-right:auto;height:auto;width:300px;background-color:white;box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"}
+![Dyplom](/assets/img/dyplom-dietetyka-tcm.jpg){:.lead style="margin-left:auto;margin-right:auto;height:auto;width:300px;background-color:white;box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"}
+![Dyplom](/assets/img/dyplom-tcm-congress.jpg){:.lead style="margin-left:auto;margin-right:auto;height:auto;width:300px;background-color:white;box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"}
+![Dyplom](/assets/img/dyplom-zdrowie-kobiety.jpg){:.lead style="margin-left:auto;margin-right:auto;height:auto;width:300px;background-color:white;box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"}
