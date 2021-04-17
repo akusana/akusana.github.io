@@ -5,7 +5,7 @@ title: Przed pierwszą wizytą
 
 Jesteś umówiony/a na pierwszą wizytę, oto kilka wskazówek jak się do niej przygotować i czego się spodziewać.
 
-Wizyta rozpoczyna się od badania pulsu pacjenta, następnie przeprowadzany jest długi i wnikliwy wywiad, po wywiadzie oglądany jest język i czasem jeszcze raz badany puls.  W oparciu o puls, wygląd języka i wywiad stawiana jest diagnoza, a następnie w zależności od diagnozy przeprowadzany jest zabieg akupunktury lub moksoterapii, a także udzielane są wskazania dietetyczne.
+Wizyta rozpoczyna się od badania pulsu pacjenta, następnie przeprowadzany jest długi, wnikliwy wywiad, po wywiadzie dokonywane są oględziny języka i czasem jeszcze raz badany jest puls. W oparciu o puls, wygląd języka i wywiad stawiana jest diagnoza, a następnie w zależności od diagnozy przeprowadzany jest odpowiednio dobrany zabieg z zakresu medycyny chińskiej (akupunktura, moksoterapia, bańki, masaż), a także udzielane są wskazania dietetyczne.
 
 **Aby wizyta przebiegła sprawnie i przyjemnie warto zastosować się do poniższych wskazówek:**
 

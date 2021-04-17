@@ -43,6 +43,8 @@ author:
 menu:
   - title:             O mnie
     url:               /
+  - title:             Tradycyjna Medycyna Chińska
+    url:               /tradycyjnamedycynachinska/
   - title:             Akupunktura
     url:               /akupunktura/
   - title:             Dietetyka
