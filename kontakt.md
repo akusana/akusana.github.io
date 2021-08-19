@@ -7,6 +7,8 @@ title: Kontakt
 
 ul. Partyzancka 7/5 (piętro I)
 
+Perspektywa Przestrzeń Zdrowia i Rozwoju
+
 63-410 Ostrów Wielkopolski
 
 Telefon: **609 26 28 28**
