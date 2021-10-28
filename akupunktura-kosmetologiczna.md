@@ -40,7 +40,7 @@ Igły stosowane do zabiegu są bardzo cienkie i o specjalnym kształcie, co spra
  - zmniejszenie rozstępów i fałd na skórze brzucha
  - zmniejszenie blizn i przyspieszenie ich gojenia
 
-**Przeciwwskazanie do zastosowania akupunktury kosmetologicznej:**
+**Przeciwwskazania do zastosowania akupunktury kosmetologicznej:**
 
  - zaawansowane nadciśnienie tętnicze
  - częste lub nieuregulowane zaburzenia rytmu serca
@@ -53,7 +53,7 @@ Igły stosowane do zabiegu są bardzo cienkie i o specjalnym kształcie, co spra
  - infekcje w ostrym stadium, stany podgorączkowe, półpasiec
  - choroby skórne w ostrej fazie oraz reakcje uczuleniowe w ostrym stadium na twarzy.
 
-**Techniki nakłuwania:**
+**Techniki nakłuwania**
 
 Technika pinezkowania
  

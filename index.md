@@ -5,6 +5,8 @@ title: O mnie
 
 <!--author-->
 
+![O mnie](assets/img/myphoto.jpg){: style="float: right;margin: 5px;"}
+
 Moja przygoda z medycyną chińską rozpoczęła się w 2015 roku. Wtedy to rozpoczęłam naukę w szkole Dietetyki Tradycyjnej Medycyny Chińskiej (TCM) w Warszawie, prowadzonej przez Dr Agnieszkę Krzemińską. To, co najbardziej urzekło mnie w terapiach dalekiego wschodu, to niezwykłe i bardzo indywidualne oraz holistyczne podejście do każdego pacjenta. 
 
 Od tamtej pory nauka TCM stała się moją pasją oraz fantastyczną i niekończącą się przygodą. 
