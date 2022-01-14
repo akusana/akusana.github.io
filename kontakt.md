@@ -5,9 +5,7 @@ title: Kontakt
 
 **Gabinet akupunktury Justyna Pawłowska**
 
-ul. Partyzancka 7/5 (piętro I)
-
-Perspektywa Przestrzeń Zdrowia i Rozwoju
+ul. Księdza W. Śmigielskiego 20 (gabinet nr 7)
 
 63-410 Ostrów Wielkopolski
 
