@@ -33,7 +33,7 @@ Praca z pacjentami oraz pomaganie im daje mi ogromną radość i satysfakcję, a
  - Technika likwidacji zmarszczek przez pinezkowanie, lek. med. neurolog Igor Sołowiow, rok 2021
  - Technika stu punktów piękności, lek. med. neurolog Igor Sołowiow, rok 2021
  - Technika enterodermalna, lek. med. neurolog Igor Sołowiow, rok 2021
-- Paplpacja w diagnostyce - znaczenie bolesności punktów w Medycynie Chińskiej, dr Hamid Montakab, rok 2022
+- Palpacja w diagnostyce - znaczenie bolesności punktów w Medycynie Chińskiej, dr Hamid Montakab, rok 2022
 
 ![Dyplom](/assets/img/dyplom-acuart.jpg){:.lead style="margin-left:auto;margin-right:auto;height:auto;width:300px;background-color:white;box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"}
 ![Dyplom](/assets/img/dyplom-dietetyka-tcm.jpg){:.lead style="margin-left:auto;margin-right:auto;height:auto;width:300px;background-color:white;box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"}
