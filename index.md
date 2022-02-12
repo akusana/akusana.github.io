@@ -24,7 +24,7 @@ Praca z pacjentami oraz pomaganie im daje mi ogromną radość i satysfakcję, a
 - Akupunktura Shen - emocje, Yair Maimon, rok 2018
 - Międzynarodowy Kongres Medycyny Chińskiej w Krakowie, rok 2018
 - Akupunktura w zaburzeniach metabolicznych - choroby tarczycy, cukrzyca. Rani Ayal, rok 2019
-- Akupunktura w ginekologiir, Rani Ayal, rok 2019
+- Akupunktura w ginekologii, Rani Ayal, rok 2019
 - Akupunktura konstytucyjna, Rani Ayal, rok 2020
 - Leczenie bólu za pomocą punktów barier, dr Hamid Montakab, rok 2020
 - Akupunktura w leczeniu bólu głowy, dr Hamid Montakab, rok 2020
