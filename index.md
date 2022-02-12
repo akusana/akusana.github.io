@@ -17,18 +17,23 @@ Praca z pacjentami oraz pomaganie im daje mi ogromną radość i satysfakcję, a
 
 ## Moja edukacja z zakresu Tradycyjnej Medycyny Chińskiej
 
-- Dietetyka Tradycyjnej Medycyny Chińskiej (TCM), dr Agnieszka Krzemińska, lata 2015-2016.
-- Zdrowie kobiety - Jak pielęgnować witalność i dobre samopoczucie we wszystkich okresach życia, dr. Agnieszka Krzemińska, rok 2017.
-- Konferencja „Wspólna medycyna – razem dla pacjenta”, rok 2017.
-- Dwuletnia szkoła akupunktury „Acuart” - lek. med. Bartosz Chmielnicki, lata 2018-2019.
-- Akupunktura Shen - emocje, Yair Maimon, rok 2018.
-- Międzynarodowy Kongres Medycyny Chińskiej w Krakowie, rok 2018.
-- Akupunktura w zaburzeniach metabolicznych - choroby tarczycy, cukrzyca. Rani Ayal, rok 2019.
-- Akupunktura w ginekologiir, Rani Ayal, rok 2019.
-- Akupunktura konstytucyjna, Rani Ayal, rok 2020.
-- Leczenie bólu za pomocą punktów barier, dr Hamid Montakab, rok 2020.
-- Akupunktura w leczeniu bólu głowy, dr Hamid Montakab, rok 2020.
-- Akupunktura w leczeniu narządów zmysłu, dr Hamid Montakab, rok 2020.
+- Dietetyka Tradycyjnej Medycyny Chińskiej (TCM), dr Agnieszka Krzemińska, lata 2015-2016
+- Zdrowie kobiety - Jak pielęgnować witalność i dobre samopoczucie we wszystkich okresach życia, dr. Agnieszka Krzemińska, rok 2017
+- Konferencja „Wspólna medycyna – razem dla pacjenta”, rok 2017
+- Dwuletnia szkoła akupunktury „Acuart” - lek. med. Bartosz Chmielnicki, lata 2018-2019
+- Akupunktura Shen - emocje, Yair Maimon, rok 2018
+- Międzynarodowy Kongres Medycyny Chińskiej w Krakowie, rok 2018
+- Akupunktura w zaburzeniach metabolicznych - choroby tarczycy, cukrzyca. Rani Ayal, rok 2019
+- Akupunktura w ginekologiir, Rani Ayal, rok 2019
+- Akupunktura konstytucyjna, Rani Ayal, rok 2020
+- Leczenie bólu za pomocą punktów barier, dr Hamid Montakab, rok 2020
+- Akupunktura w leczeniu bólu głowy, dr Hamid Montakab, rok 2020
+- Akupunktura w leczeniu narządów zmysłu, dr Hamid Montakab, rok 2020
+- Akupunktura kosmetologiczna twarzy
+-- Technika likwidacji zmarszczek przez pinezkowanie, lek. med. neurolog Igor Sołowiow, rok 2021
+-- Technika stu punktów piękności, lek. med. neurolog Igor Sołowiow, rok 2021
+-- Technika enterodermalna, lek. med. neurolog Igor Sołowiow, rok 2021
+- Paplpacja w diagnostyce - znaczenie bolesności punktów w Medycynie Chińskiej, dr Hamid Montakab, rok 2022
 
 ![Dyplom](/assets/img/dyplom-acuart.jpg){:.lead style="margin-left:auto;margin-right:auto;height:auto;width:300px;background-color:white;box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"}
 ![Dyplom](/assets/img/dyplom-dietetyka-tcm.jpg){:.lead style="margin-left:auto;margin-right:auto;height:auto;width:300px;background-color:white;box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"}

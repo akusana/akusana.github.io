@@ -18,11 +18,13 @@ Zakres wskazań do zastosowania terapii wg TCM:
 - Dolegliwości układu trawiennego (niestrawność,mdłości,refluks, wymioty, bóle brzucha, choroby jelit, zgaga itp.)
 - Choroby układu oddechowego (zapalenie zatok, kaszel, przeziębienie itp.)
 - Zaburzenia emocjonalne (lęki,stres, depresje, napięcia itp.)
-- Zespoły bólowe spowodowane urazem lub związane z przewlekłą chorobą ( bóle pleców, bóle głowy, bóle barku itp.)
-- Zaburzenia ginekologiczne ( zespoły napięcia przedmiesiączkowego, ból,nieregularne krwawienia miesięczne itp.)
+- Zespoły bólowe spowodowane urazem lub związane z przewlekłą chorobą (bóle pleców, bóle głowy, bóle barku itp.)
+- Zaburzenia ginekologiczne (zespoły napięcia przedmiesiączkowego, ból,nieregularne krwawienia miesięczne itp.)
+- Łagodzenie objawów menopauzy
 - Wspomaganie leczenia niepłodności
 - Bezsenność
 - Choroby oczu
-- Choroby jamy ustnej i twarzy     
-- Wspieranie organizmu po ciężkich chorobach i wyniszczających terapiach.     
-- Stany osłabienia, przemęczenie, wyczerpanie, braku odporności oraz wiele innych schorzeń i dolegliwości.
+- Choroby jamy ustnej i twarzy
+- Wspieranie organizmu po ciężkich chorobach i wyniszczających terapiach
+- Stany osłabienia, przemęczenie, wyczerpanie, braku odporności oraz wiele innych schorzeń i dolegliwości
+- Przedwczesne starzenie się skóry, zmarszczki, głębokie bruzdy, blizny, przebarwienia ([akupunktura kosmetologiczna](https://akusana.pl/akupunktura-kosmetologiczna)) 
