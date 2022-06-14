@@ -5,7 +5,7 @@ title: Kontakt
 
 **Gabinet akupunktury Justyna Pawłowska**
 
-ul. Księdza W. Śmigielskiego 20 (budynek "Tatko", gabinet nr 7)
+ul. Księdza W. Śmigielskiego 20 (budynek "Tatko", piętro 2, gabinet 7)
 
 63-410 Ostrów Wielkopolski
 
